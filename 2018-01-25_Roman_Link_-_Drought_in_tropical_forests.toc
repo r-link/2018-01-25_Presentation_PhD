@@ -2,7 +2,7 @@
 \select@language {english}
 \select@language {english}
 \beamer@sectionintoc {1}{Introduction}{6}{0}{1}
-\beamer@sectionintoc {2}{Radial sap flow profiles}{8}{0}{2}
-\beamer@sectionintoc {3}{Vulnerability curves}{15}{0}{3}
-\beamer@sectionintoc {4}{The big picture}{20}{0}{4}
-\beamer@sectionintoc {5}{References}{30}{0}{5}
+\beamer@sectionintoc {2}{Radial sap flow profiles}{9}{0}{2}
+\beamer@sectionintoc {3}{Vulnerability curves}{16}{0}{3}
+\beamer@sectionintoc {4}{The big picture}{21}{0}{4}
+\beamer@sectionintoc {5}{References}{31}{0}{5}
