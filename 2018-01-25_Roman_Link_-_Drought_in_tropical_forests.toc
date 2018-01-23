@@ -3,6 +3,6 @@
 \select@language {english}
 \beamer@sectionintoc {1}{Introduction}{6}{0}{1}
 \beamer@sectionintoc {2}{Radial sap flow profiles}{11}{0}{2}
-\beamer@sectionintoc {3}{Vulnerability curves}{31}{0}{3}
-\beamer@sectionintoc {4}{The big picture}{36}{0}{4}
-\beamer@sectionintoc {5}{References}{46}{0}{5}
+\beamer@sectionintoc {3}{Vulnerability curves}{42}{0}{3}
+\beamer@sectionintoc {4}{The big picture}{47}{0}{4}
+\beamer@sectionintoc {5}{References}{57}{0}{5}

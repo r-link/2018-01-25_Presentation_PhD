@@ -271,31 +271,74 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 			\item<visible@+| alert@+>[\Rar] \Blue{Hypothesis:} The shape of the radial sap flow profile is related to \textbf{wood density} and \textbf{tree height}
 		\end{itemize}						
 	\end{minipage}
-
 \end{frame}
 
 \begin{frame}
 	\frametitle{Data analysis}
 	\begin{itemize}
-		\item Non-linear Bayesian hierarchical model
-		\item Simultaneously estimating shape of profiles on one stage on the model, and regressing relationship between parameters and predictors on second model stage
-		\item ONE SLIDE!
+		\item Modeled with \Blue{Bayesian nonlinear hierarchical model}
+		\begin{itemize}			
+			\item<2-> \alert<2>{\textbf{First stage of the model:}} Nonlinear relationship between sensor depth and predicted flux density modeled by density function of the Weibull distribution
+			\item<3->  \alert<3>{\textbf{Second stage of the model:}} Parameters of the Weibull distribution modeled as a function of wood density, tree height and their interaction, accounting for species and stem specific random variation
+			\item<4->  \alert<4>{Model fitting with\textbf{ Stan modeling language}}
+		\end{itemize}
+		\item<visible@5| alert@5> Model still need tunings \rar\ shown results are from preliminary model based on R package \texttt{nlme}
 	\end{itemize}
 \end{frame}
 
 \begin{frame}
-	\frametitle{Preliminary results I - predicted profiles}
-	\begin{itemize}
-		\item Figure and some explication 
+	\frametitle{Model equations of the preliminary model}
+  \includegraphics[height=0.9\textheight]{figures/HFD_06_model.png}
+\end{frame}
+
+\begin{frame}
+	\includegraphics[height=\textheight]{figures/HFD_02_profiles.png}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Preliminary results I - predicted profiles}	
+	\begin{minipage}{0.6\tw}
+		\begin{itemize}[<+-| alert@+>]
+			\item Model explains a large part of the observed variance in the dataset (conditional pseudo-R\Sup{2} = 0.918)
+			\item Most of this variance is explained by random differences between species and stems (marginal pseudo-R\Sup{2} = 0.329)
+		\end{itemize}						
+	\end{minipage}
+	\begin{minipage}{0.38\tw}
+		\includegraphics[width = \tw]{figures/HFD_05_profile_simarouba.png}
+	\end{minipage}	
+\end{frame}
+
+\begin{frame}
+	\frametitle{Preliminary results II - parameter models}
+		\includegraphics[width=\tw]{figures/HFD_03a_k_responses.png}
+		\begin{itemize}
+		\item \Blue{Weibull shape parameter K} 
+			\begin{itemize}
+				\item	No significant height- and wood density effects
+			\end{itemize}
 	\end{itemize}
 \end{frame}
 
 \begin{frame}
-	\frametitle{Preliminary results II - predicted relationships}
+	\frametitle{Preliminary results II - parameter models}
+	\includegraphics[width=\tw]{figures/HFD_03b_lambda_responses.png}
 	\begin{itemize}
-		\item Figure and some explication 
+		\item \Blue{Weibull scale parameter $\lambda$}
+		\begin{itemize}
+			\item Decreases significantly with tree height and wood density, but significantly less so in trees that are both large AND have hard wood
+		\end{itemize}	
 	\end{itemize}
 \end{frame}
+
+\begin{frame}
+	\frametitle{Radial sap flow profiles - conclusions}
+	\begin{itemize}[<+-| alert@+>]
+		\item Very good predictions possible with a nonlinear hierarchical model
+		\item Shape of the profile significantly depends on height and wood density
+		\item Predictive power for predictions on new trees is low because of high stem-specific variability
+	\end{itemize}
+\end{frame}
+
 
 \section{Vulnerability curves}
 \begin{frame}
