@@ -98,8 +98,8 @@
 			\setlength{\itemindent}{\parindent}%
 			\setlength{\parsep}{\parskip}%
 		}%
-		{\item[]}
-	\end{list}
+		\item[]}
+	{\end{list}
 }
 
 %% pdf information  -----------------------------------------------------
@@ -132,22 +132,14 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 \begin{frame}
 	\frametitle{Structure of my PhD project}
 	\begin{itemize}
-		\item \Blue{Chapter 1:} Predicting radial sap flow profiles from Costa Rican tropical dry forest species
-		\item \Blue{Chapter 2:} Predicting plant vulnerability to embolism in Costa Rican humid tropical forest species
-		\item \Blue{Chapter 3:} Relationship between productivity, structural and functional, wood anatomical and hydraulic traits of tropical forest species from Costa Rica
-		\item<visible@2> \Blue{Bonus Chapter:} Maximum-likelihood estimation of xylem vessel lengths
+		\item<+-| alert@+> Introduction
+		\item<+-| alert@+>  \Blue{Chapter 1:} Predicting radial sap flow profiles from Costa Rican tropical dry forest species
+		\item<+-| alert@+>  \Blue{Chapter 2:} Estimating plant vulnerability to embolism in Costa Rican humid tropical forest species
+		\item<+-| alert@+>  \Blue{Chapter 3:} Relationship between productivity, structural and functional, wood anatomical and hydraulic traits of tropical forest species from Costa Rica
+		\item<visible@+-> \Blue{Bonus Chapter:} 
+		\alert<5>{Maximum-likelihood estimation of xylem vessel lengths}\visible<6>{: \alert<6>{\textbf{Not in the focus of this presentation!}}
+		}
     \end{itemize}	
-\end{frame}
-
-\begin{frame}
-	\frametitle{Structure of this presentation}
-	\begin{enumerate}
-		\item Introduction
-		\item Predicting radial sap flow profiles from Costa Rican tropical dry forest species
-		\item Predicting plant vulnerability to embolism in Costa Rican humid tropical forest species
-		\item Relationship between productivity, structural and functional, wood anatomical and hydraulic traits of tropical forest species from Costa Rica
-		\item<visible@2| alert@2> Maximum-likelihood estimation of xylem vessel lengths: \textbf{Not in the focus of this presentation!}
-	\end{enumerate}	
 \end{frame}
 
 \section{Introduction}
@@ -169,7 +161,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 \begin{frame}
 	\frametitle{Design of the study}
 	\begin{minipage}{0.5\tw}
-		\begin{itemize}
+		\begin{itemize}[<+-| alert@+>]
 			\item 5 research sites along a rainfall gradient on the Pacific shoreline of Costa Rica 			
 			\item Gradient from tropical dry forest to humid tropical lowland forest
 			\item Based on existing research sites of the \Blue{Instituto Tecnológico de Costa Rica}
@@ -182,25 +174,59 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 
 \begin{frame}
 	\frametitle{Design of the study}
-\begin{itemize}
-	\item At each of the 5 research sites:
+	\begin{minipage}{0.5\tw}
+		\textbf{ At each of the 5 research sites:}
+		\begin{itemize}[<+-| alert@+>]
+			\item 8 species representing a gradient in tree height and wood density
+			\item 5 replicates per species
+			\item[\Rar] 40 trees per site, 200 trees in total
+		\end{itemize}	
+	\end{minipage}
+	\begin{minipage}{0.48\tw}
+		\includegraphics[width = \tw]{figures/map_01_all_sites.png}  	
+	\end{minipage}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Design of the study}
 	\begin{itemize}
-		\item 8 species representing a gradient in tree height and wood density
-		\item 5 replicates per species
-		\item[\Rar] 40 trees per site, 200 trees in total
+		\item \Blue{Variables measured at all sites}
+		\begin{itemize}
+			\item \alert<1>{Tree level}
+			\begin{itemize}
+				\item Diameter at breast height
+				\item Tree height
+				\item Tree growth (basal area/aboveground biomass increment)
+				\item Wood density
+				\item Sapwood non-structural carbohydrate (NSC) content
+			\end{itemize}
+			 \item  \alert<1>{Site level}
+			  \begin{itemize}
+			  	\item Temperature
+			  	\item Relative humidity 
+			  	\item Precipitation
+			  \end{itemize}
+		\end{itemize}		
+		\item<2> \Blue{Variables measured at a subset of sites}
+		\begin{itemize}
+			\item  \alert<2>{Sap flow} (only at one site)
+			\item  \alert<2>{Branch vulnerability to embolism} (only at two sites)
+		\end{itemize}
 	\end{itemize}
-	\item Field measurements of temperature, relative humidity and precipitation
-\end{itemize}
 \end{frame}
 
 \begin{frame}
 	\frametitle{Problems with the design}
 	\begin{itemize}
-		\item Opportunistic use of pre-existing plots
-		\item Different plot sizes and numbers at each site
-		\item Differences in historic land use (pristine primary forest vs. disturbed primary forest vs. secondary forest)
-		\item[\rar] Plot-based comparisons are difficult
-		\item[\Rar] Not that important for our (eco-physiological) research questions, but limits usability of plot network for other studies
+		\item<+-> \alert<1>{Opportunistic use of pre-existing plots}
+		\begin{itemize}
+			\item<+-| alert@+> Different plot sizes and numbers at each site
+			\item<+-| alert@+> Differences in historic land use (pristine primary forest vs. disturbed primary forest vs. secondary forest)
+			\item<+-| alert@+> Cooperation with forestry department (foresters do forester things...)
+		\end{itemize}	
+		\item<visible@+-| alert@+>[\rar] Plot-based comparisons are difficult
+		\item<visible@+-| alert@+>[\Rar] Not that important for our (eco-physiological) research questions, but limits usability of plot network for other research areas
 	\end{itemize}
 \end{frame}
 
@@ -214,14 +240,22 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	 	\item<+-| alert@+> Practical limitations \rar\ only in dry forest (Horizontes)
 	 	\item<+-| alert@+> 4 measurement campaigns of $\pm$ 1 week during rainy season of 2015
 	 	\item<+-| alert@+> 40 trees of 8 species	
-	 	\item<+-| alert@+> measured with the Heat Field Deformation (HFD) method			
+	 	\item<+-| alert@+> Measured with the Heat Field Deformation (HFD) method			
 	 \end{itemize}			
 	\end{minipage}
 	\begin{minipage}{0.48\tw}
-		\only<1-3>{\includegraphics[width = \tw]{figures/map_02_horizontes.png}} 	
-		\only<4>{\includegraphics[width = 0.75\tw]{figures/HFD_01_sensor.JPG}}
+		\only<1>{\includegraphics[width = \tw]{figures/map_02_horizontes.png}} 	
+		\only<2-3>{\includegraphics[width = \tw]{figures/Guanacaste2015.jpg}\\
+			
+			\source{Image source: Instituto Meteorológico Nacional de Costa Rica}} 			
+		\only<4>{\centering \includegraphics[width = 0.7\tw]{figures/HFD_01_sensor.JPG}}
 	\end{minipage}
 \end{frame}
+
+\begin{frame}	
+	\includegraphics[height = \textheight]{figures/horizontes_WD_height1.png}
+\end{frame}
+
 
 \begin{frame}
 	\frametitle{Heat field deformation sensors}
@@ -248,11 +282,11 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\item<only@1| alert@1> Original idea: Comparison of sap flow and plant water use between species with different trait combinations
 		\item<only@2-> Problem: newer research indicates that
 		\begin{itemize}
-			\item[a)]<2-| alert@2> The mechanistic explanation of the HFD method (Nadezhdina et al., 2012) is flawed (Vandegehuchte et al., 2012)\\ \rar\ species-specific calibration likely necessary in most cases
-			\item[b)]<3-| alert@3> Calibration parameters are not consistent within species (Fuchs et al., 2017)
+			\item[a)]<2-| alert@2> The mechanistic explanation of the HFD method (Nadezhdina et al., 2012) is flawed (Vandegehuchte \& Steppe, 2012)\\ \rar\ species-specific calibration likely necessary in most cases
+			\item[b)]<3-| alert@3> HFD calibration parameters are not consistent within species (Fuchs et al., 2017)
 		\end{itemize}	
-		\item<only@4-| alert@4> Relative values are probably reliable, absolute values have to be handled with care
-		\item<only@5| alert@5>[\Rar] \textbf{Decision for analysis: focus on radial gradients of sap flux}
+		\item<only@4-| alert@4>\textit{ Relative values} are probably reliable, \textit{absolute values} have to be handled with care
+		\item<only@5| alert@5>[\Rar] \textbf{Decision for analysis: better to put focus on radial gradients of sap flux}
 	\end{itemize}
 	\only<2>{\includegraphics[width = \tw]{figures/vandegehuchte_01.png}}
   \only<3>{\includegraphics[width = \tw]{figures/HFDSeb_01_paper.png}}	
@@ -264,26 +298,47 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\includegraphics[width = \tw]{figures/HFD_05_profile_simarouba.png}
 	\end{minipage}
 	\begin{minipage}{0.6\tw}
+			\begin{itemize}
+			\item Radial sap flow gradients
 			\begin{itemize}[<+-| alert@+>]
-			\item For studies of water use radial gradients in sap flow are very important, but only few methods take it into account	
-			\item Species specific measurements are problematic in the tropics		
-			\item[\Rar] \Blue{Question:} Is it possible to predict the shape of the radial sap flow profile based on tree traits?
-			\item<visible@+| alert@+>[\Rar] \Blue{Hypothesis:} The shape of the radial sap flow profile is related to \textbf{wood density} and \textbf{tree height}
+				\item very important for studies of plant water use
+				\item few methods take them into account
+				\item sensors are expensive and error-prone
+			  \item species specific measurement: problematic in the tropics		
+			\end{itemize}
+			\item<+-| alert@+>[\Rar] \Blue{Question:} Is it possible to predict the shape of radial sap flow profiles based on tree traits?
+			\item<visible@+| alert@+>[\Rar] \Blue{Hypothesis:} The shape of radial sap flow profiles depends on \textbf{wood density} and \textbf{tree height}
 		\end{itemize}						
 	\end{minipage}
 \end{frame}
 
 \begin{frame}
 	\frametitle{Data analysis}
+	\begin{minipage}{0.38\tw}
+		\includegraphics[width = \tw]{figures/HFD_05_profile_simarouba.png}
+	\end{minipage}
+	\begin{minipage}{0.6\tw}				
+		\begin{itemize}[<+-| alert@+>]
+			\item Nonlinear relationship
+			\item Parameters that control the shape of the nonlinear relationship depend on other variables
+			\item Hierarchical data structure (repeated observations in replicate trees from different species)		
+			\item<visible@4| alert@4>[\Rar] \textbf{How to analyze?}
+		\end{itemize}
+	\end{minipage}
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{Data analysis}
 	\begin{itemize}
-		\item Modeled with \Blue{Bayesian nonlinear hierarchical model}
+		\item Analysis based on \Blue{Bayesian nonlinear hierarchical models}
 		\begin{itemize}			
 			\item<2-> \alert<2>{\textbf{First stage of the model:}} Nonlinear relationship between sensor depth and predicted flux density modeled by density function of the Weibull distribution
 			\item<3->  \alert<3>{\textbf{Second stage of the model:}} Parameters of the Weibull distribution modeled as a function of wood density, tree height and their interaction, accounting for species and stem specific random variation
-			\item<4->  \alert<4>{Model fitting with\textbf{ Stan modeling language}}
+			\item<only@4->  \alert<4>{Model fitting with the \textbf{Stan modeling language}}
 		\end{itemize}
-		\item<visible@5| alert@5> Model still need tunings \rar\ shown results are from preliminary model based on R package \texttt{nlme}
+		\item<only@5| alert@5> Models still need tuning \rar\ shown results are from preliminary model based on R package \texttt{nlme}
 	\end{itemize}
+	  \only<2-3>{\includegraphics[width = 0.8\tw]{figures/weibulldens.png}}
 \end{frame}
 
 \begin{frame}
@@ -308,9 +363,10 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	\end{minipage}	
 \end{frame}
 
-\begin{frame}
+\begin{frame}[t]
 	\frametitle{Preliminary results II - parameter models}
-		\includegraphics[width=\tw]{figures/HFD_03a_k_responses.png}
+		\only<1>{\includegraphics[width=\tw]{figures/HFD_03a_k_responses.png}}
+		\only<2>{\includegraphics[width=\tw]{figures/weibulldens_K.png}}
 		\begin{itemize}
 		\item \Blue{Weibull shape parameter K} 
 			\begin{itemize}
@@ -319,9 +375,10 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	\end{itemize}
 \end{frame}
 
-\begin{frame}
+\begin{frame}[t]
 	\frametitle{Preliminary results II - parameter models}
-	\includegraphics[width=\tw]{figures/HFD_03b_lambda_responses.png}
+  \only<1>{\includegraphics[width=\tw]{figures/HFD_03b_lambda_responses.png}}
+	\only<2>{\includegraphics[width=\tw]{figures/weibulldens_lambda.png}}
 	\begin{itemize}
 		\item \Blue{Weibull scale parameter $\lambda$}
 		\begin{itemize}
@@ -331,30 +388,59 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 \end{frame}
 
 \begin{frame}
-	\frametitle{Radial sap flow profiles - conclusions}
+	\frametitle{Radial sap flow profiles - Conclusions}
 	\begin{itemize}[<+-| alert@+>]
-		\item Very good predictions possible with a nonlinear hierarchical model
 		\item Shape of the profile significantly depends on height and wood density
-		\item Predictive power for predictions on new trees is low because of high stem-specific variability
+		\item Model describes observed radial profiles very well
+		\item Explained variance is much lower when predicting onto new trees because of the high stem-specific variability
+		\item Inclusion of other predictors might improve predictions (and consequently increase the value of the model for studies of plant water use)
 	\end{itemize}
 \end{frame}
 
 
 \section{Vulnerability curves}
 \begin{frame}
-	\frametitle{Vulnerability curves}
-	\begin{itemize}
-		\item What are vulnerability curves?
-		\item What kind of information do they offer?
-	\end{itemize}  
+	\frametitle{Second chapter: vulnerability curves}
+	\begin{changemargin}{-1em}{-1em}	
+		\centering{
+			\includegraphics[width=0.65\tw]{figures/schuldt_2015_VC.png}}
+		\begin{itemize}
+			\item<only@1> Relationship between \alert{water potential} and \alert{percentage loss of conductivity} (PLC)
+			\item<only@1>[\rar] shows the loss of conductive function under increasingly dry conditions
+			\item<only@2> \alert{Parameters of vulnerability curves:} important predictors of drought response
+			\begin{itemize}
+				\item  \Blue{P\sub{50}:} At what pressure 
+				does a plant lose 50\% of its conductivity?  
+				\item \Blue{Slope:} How fast does this loss occur?
+			\end{itemize}
+		\end{itemize}  
+		\only<2>{\vspace{0.65em}}
+		\source{Image source: Schuldt et al., 2015}
+	\end{changemargin}	
 \end{frame}
 
 \begin{frame}
-	\frametitle{The Cavi1000}
-	\begin{itemize}
-		\item Some photos, basic information about how it works
-	\end{itemize}
+	\frametitle{Second chapter: vulnerability curves}
+	\begin{minipage}{0.5\tw}
+			\begin{itemize}
+			\item<1-| alert@1> Vulnerability curves of replicate samples from 30 trees of 10 tropical forest species from the Osa peninsula (56 in total)
+			\item<2-| alert@2-4> Collection of upper canopy branches in two campaigns in the rainy seasons  of 2016 and 2017
+			\item<5-| alert@5-> Measured with the Cavitron method using a novel 1~m rotor (courtesy of the lab of Sylvain Delzon, Bordeaux) 
+		\end{itemize}			
+	\end{minipage}
+	\begin{minipage}{0.48\tw}
+		\centering
+		\only<1>{\includegraphics[width = \tw]{figures/map_03_osa.png}}	
+		\only<2>{\includegraphics[width = 0.75\tw]{figures/field1.jpg}}	
+		\only<3>{\includegraphics[width = 0.75\tw]{figures/field2.jpg}}
+		\only<4>{\includegraphics[width = 0.8\tw]{figures/field3.jpg}}
+		\only<5>{\includegraphics[width = \tw]{figures/cavi01.jpg}\\			
+			\source{Foto: \url{http://sylvain-delzon.com/caviplace/}}}
+		\only<6>{\includegraphics[width = 0.9\tw]{figures/cavi02.jpg}\\
+			\source{Foto: \url{http://sylvain-delzon.com/caviplace/}}}
+		\end{minipage}	
 \end{frame}
+
 
 \begin{frame}
 	\frametitle{Research questions \& hypotheses}
@@ -365,26 +451,28 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 
 \begin{frame}
 	\frametitle{Data analysis}
-	\begin{itemize}
-		\item Non-linear Bayesian hierarchical model
-		\item Compare to HFD model, mention Ogle et al. 2009
-		\item ONE SLIDE!
-	\end{itemize}
+	\centering{\includegraphics[width=0.38\tw]{figures/schuldt_2015_VC.png}}
+	\begin{itemize}[<+-| alert@+>]
+		\item Nonlinear relationship
+		\item Parameters that control the shape of the nonlinear relationship (P50 and slope) depend on other variables
+		\item Hierarchical data structure (repeated observations on replicate samples from replicate trees belonging to different species)		
+		\item<visible@4-| alert@4>[\Rar] \textbf{Nonlinear hierarchical models}\\ (analogous to models for radial sap flow profiles)
+		\item<visible@5| alert@5>[\Rar] \textbf{\Large Data analysis in progress}
+	\end{itemize}	
+	\source{Image source: Schuldt et al., 2015}
 \end{frame}
 
 \begin{frame}
 	\frametitle{Observed vulnerability curves}
-	\begin{itemize}
-		\item Do not overinterprete!
-	\end{itemize}
+		\includegraphics[height=0.9\textheight]{figures/VC_02_preliminary_plot.jpg}
 \end{frame}
 
 \section{The big picture}
 \begin{frame}
-	\frametitle{Big picture}
+	\frametitle{The big picture}
 	\begin{itemize}
-		\item Analyzed variables (methods section)
-		\item Design		
+		\item Do structural, functional and wood anatomical traits explain changes in productivity and hydraulic traits? 
+		\item How are these changes related to the rainfall gradient?
 	\end{itemize}
 \end{frame}
 

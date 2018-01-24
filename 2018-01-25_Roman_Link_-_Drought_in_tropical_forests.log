@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.21)  23 JAN 2018 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.21)  24 JAN 2018 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1118,7 +1118,7 @@ Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 129.
  <./logo_uni_goe_transparent.png>]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 140.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 143.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
 [2
@@ -1126,14 +1126,14 @@ Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 140.
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 140.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 143.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [3
 
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 151.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 143.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
 [4
@@ -1141,14 +1141,14 @@ Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 151.
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 151.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 143.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [5
 
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 160.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 143.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
 [6
@@ -1156,228 +1156,177 @@ Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 160.
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 167.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 143.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [7
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 181
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 152.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[8
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 159.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [9
+
+]
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 173
 .
 
 (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for U+zeur on input line 181.
+LaTeX Font Info:    Try loading font information for U+zeur on input line 173.
 
 (/usr/share/texlive/texmf-dist/tex/latex/eulervm/uzeur.fd
 File: uzeur.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Try loading font information for U+zeus on input line 181.
+LaTeX Font Info:    Try loading font information for U+zeus on input line 173.
 
 (/usr/share/texlive/texmf-dist/tex/latex/eulervm/uzeus.fd
 File: uzeus.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Try loading font information for U+zeuex on input line 181.
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 173.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/eulervm/uzeuex.fd
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 181.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 173.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 181.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 173.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 181.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 173.
 
-<figures/map_01_all_sites.png, id=283, 1006.76125pt x 967.615pt>
+<figures/map_01_all_sites.png, id=347, 1006.76125pt x 967.615pt>
 File: figures/map_01_all_sites.png Graphic file (type png)
 
 <use figures/map_01_all_sites.png>
-Package pdftex.def Info: figures/map_01_all_sites.png used on input line 181.
+Package pdftex.def Info: figures/map_01_all_sites.png used on input line 173.
 (pdftex.def)             Requested size: 147.49782pt x 141.7549pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 181.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [8
-
- <./figures/map_01_all_sites.png>]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 194.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 194.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 194.
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 194.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [9
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
-
-<use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 205.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 173.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [10
 
-]
-<figures/map_02_horizontes.png, id=382, 1006.76125pt x 967.615pt>
-File: figures/map_02_horizontes.png Graphic file (type png)
-
-<use figures/map_02_horizontes.png>
-Package pdftex.def Info: figures/map_02_horizontes.png used on input line 224.
-(pdftex.def)             Requested size: 147.49782pt x 141.7549pt.
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 224.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [11
-
- <./figures/map_02_horizontes.png>]
-File: figures/map_02_horizontes.png Graphic file (type png)
- <use figures/map_02_horizontes.png>
-Package pdftex.def Info: figures/map_02_horizontes.png used on input line 224.
+ <./figures/map_01_all_sites.png>]
+File: figures/map_01_all_sites.png Graphic file (type png)
+ <use figures/map_01_all_sites.png>
+Package pdftex.def Info: figures/map_01_all_sites.png used on input line 173.
 (pdftex.def)             Requested size: 147.49782pt x 141.7549pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
 
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 224.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 173.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [11
+
+]
+File: figures/map_01_all_sites.png Graphic file (type png)
+ <use figures/map_01_all_sites.png>
+Package pdftex.def Info: figures/map_01_all_sites.png used on input line 173.
+(pdftex.def)             Requested size: 147.49782pt x 141.7549pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 173.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [12
 
 ]
-File: figures/map_02_horizontes.png Graphic file (type png)
- <use figures/map_02_horizontes.png>
-Package pdftex.def Info: figures/map_02_horizontes.png used on input line 224.
+File: figures/map_01_all_sites.png Graphic file (type png)
+ <use figures/map_01_all_sites.png>
+Package pdftex.def Info: figures/map_01_all_sites.png used on input line 188.
 (pdftex.def)             Requested size: 147.49782pt x 141.7549pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
 
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 224.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 188.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [13
 
 ]
-<figures/HFD_01_sensor.JPG, id=481, 526.95154pt x 896.97394pt>
-File: figures/HFD_01_sensor.JPG Graphic file (type jpg)
-
-<use figures/HFD_01_sensor.JPG>
-Package pdftex.def Info: figures/HFD_01_sensor.JPG used on input line 224.
-(pdftex.def)             Requested size: 110.62335pt x 188.30165pt.
+File: figures/map_01_all_sites.png Graphic file (type png)
+ <use figures/map_01_all_sites.png>
+Package pdftex.def Info: figures/map_01_all_sites.png used on input line 188.
+(pdftex.def)             Requested size: 147.49782pt x 141.7549pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 224.
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 188.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [14
 
- <./figures/HFD_01_sensor.JPG>]
-<figures/nadezhdina_01.png, id=512, 1216.545pt x 882.29625pt>
-File: figures/nadezhdina_01.png Graphic file (type png)
-
-<use figures/nadezhdina_01.png>
-Package pdftex.def Info: figures/nadezhdina_01.png used on input line 243.
-(pdftex.def)             Requested size: 147.49782pt x 106.96146pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
-
- []
-
+]
+File: figures/map_01_all_sites.png Graphic file (type png)
+ <use figures/map_01_all_sites.png>
+Package pdftex.def Info: figures/map_01_all_sites.png used on input line 188.
+(pdftex.def)             Requested size: 147.49782pt x 141.7549pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
+
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 243.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 188.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [15
 
- <./figures/nadezhdina_01.png (PNG copy)>]
-File: figures/nadezhdina_01.png Graphic file (type png)
- <use figures/nadezhdina_01.png>
-Package pdftex.def Info: figures/nadezhdina_01.png used on input line 243.
-(pdftex.def)             Requested size: 147.49782pt x 106.96146pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
-
- []
-
+]
 File: logo_uni_goe_transparent.png Graphic file (type png)
-<use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 243.
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 217.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [16
+
+[16
 
 ]
-<figures/nadezhdina_02.png, id=578, 328.22626pt x 514.92375pt>
-File: figures/nadezhdina_02.png Graphic file (type png)
-
-<use figures/nadezhdina_02.png>
-Package pdftex.def Info: figures/nadezhdina_02.png used on input line 243.
-(pdftex.def)             Requested size: 88.49959pt x 138.83484pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
-
- []
-
 File: logo_uni_goe_transparent.png Graphic file (type png)
-<use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 243.
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 217.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [17
 
- <./figures/nadezhdina_02.png (PNG copy)>]
-File: figures/nadezhdina_02.png Graphic file (type png)
- <use figures/nadezhdina_02.png>
-Package pdftex.def Info: figures/nadezhdina_02.png used on input line 243.
-(pdftex.def)             Requested size: 88.49959pt x 138.83484pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
-
- []
-
+]
 File: logo_uni_goe_transparent.png Graphic file (type png)
+
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 243.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 231.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [18
 
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 259.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 231.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
 [19
 
-] <figures/vandegehuchte_01.png, id=673, 1532.72626pt x 594.22pt>
-File: figures/vandegehuchte_01.png Graphic file (type png)
-
-<use figures/vandegehuchte_01.png>
-Package pdftex.def Info: figures/vandegehuchte_01.png used on input line 259.
-(pdftex.def)             Requested size: 307.28987pt x 119.13203pt.
+]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 259.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 231.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [20
 
- <./figures/vandegehuchte_01.png (PNG copy)>]
-<figures/HFDSeb_01_paper.png, id=706, 1555.8125pt x 596.2275pt>
-File: figures/HFDSeb_01_paper.png Graphic file (type png)
-
-<use figures/HFDSeb_01_paper.png>
-Package pdftex.def Info: figures/HFDSeb_01_paper.png used on input line 259.
-(pdftex.def)             Requested size: 307.28987pt x 117.76045pt.
+]
 File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 259.
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 231.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [21
 
- <./figures/HFDSeb_01_paper.png (PNG copy)>]
+]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 259.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 231.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
 [22
@@ -1385,68 +1334,360 @@ Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 259.
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 259.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 231.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
  [23
 
 ]
-<figures/HFD_05_profile_simarouba.png, id=799, 68.02414pt x 97.5645pt>
+<figures/map_02_horizontes.png, id=795, 1006.76125pt x 967.615pt>
+File: figures/map_02_horizontes.png Graphic file (type png)
+
+<use figures/map_02_horizontes.png>
+Package pdftex.def Info: figures/map_02_horizontes.png used on input line 253.
+(pdftex.def)             Requested size: 147.49782pt x 141.7549pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+
+ []
+
+File: logo_uni_goe_transparent.png Graphic file (type png)
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 253.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [24
+
+ <./figures/map_02_horizontes.png>]
+<figures/Guanacaste2015.jpg, id=831, 895.345pt x 769.87625pt>
+File: figures/Guanacaste2015.jpg Graphic file (type jpg)
+
+<use figures/Guanacaste2015.jpg>
+Package pdftex.def Info: figures/Guanacaste2015.jpg used on input line 253.
+(pdftex.def)             Requested size: 147.49782pt x 126.82439pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+
+ []
+
+File: logo_uni_goe_transparent.png Graphic file (type png)
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 253.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [25
+
+ <./figures/Guanacaste2015.jpg>]
+File: figures/Guanacaste2015.jpg Graphic file (type jpg)
+
+<use figures/Guanacaste2015.jpg>
+Package pdftex.def Info: figures/Guanacaste2015.jpg used on input line 253.
+(pdftex.def)             Requested size: 147.49782pt x 126.82439pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+
+ []
+
+File: logo_uni_goe_transparent.png Graphic file (type png)
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 253.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [26
+
+]
+<figures/HFD_01_sensor.JPG, id=895, 526.95154pt x 896.97394pt>
+File: figures/HFD_01_sensor.JPG Graphic file (type jpg)
+
+<use figures/HFD_01_sensor.JPG>
+Package pdftex.def Info: figures/HFD_01_sensor.JPG used on input line 253.
+(pdftex.def)             Requested size: 103.24802pt x 175.73726pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 253.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [27
+
+ <./figures/HFD_01_sensor.JPG>]
+<figures/horizontes_WD_height1.png, id=926, 511.9125pt x 398.2077pt>
+File: figures/horizontes_WD_height1.png Graphic file (type png)
+
+<use figures/horizontes_WD_height1.png>
+Package pdftex.def Info: figures/horizontes_WD_height1.png used on input line 2
+57.
+(pdftex.def)             Requested size: 319.42899pt x 248.48033pt.
+
+Overfull \hbox (12.13911pt too wide) in paragraph at lines 257--257
+[][]  
+ []
+
+
+Overfull \vbox (1.0pt too high) detected at line 257
+ []
+
+File: logo_uni_goe_transparent.png Graphic file (type png)
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 257.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [28
+
+ <./figures/horizontes_WD_height1.png (PNG copy)>] <figures/nadezhdina_01.png, 
+id=958, 1216.545pt x 882.29625pt>
+File: figures/nadezhdina_01.png Graphic file (type png)
+
+<use figures/nadezhdina_01.png>
+Package pdftex.def Info: figures/nadezhdina_01.png used on input line 277.
+(pdftex.def)             Requested size: 147.49782pt x 106.96146pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+
+ []
+
+File: logo_uni_goe_transparent.png Graphic file (type png)
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 277.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [29
+
+ <./figures/nadezhdina_01.png (PNG copy)>]
+File: figures/nadezhdina_01.png Graphic file (type png)
+ <use figures/nadezhdina_01.png>
+Package pdftex.def Info: figures/nadezhdina_01.png used on input line 277.
+(pdftex.def)             Requested size: 147.49782pt x 106.96146pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+
+ []
+
+File: logo_uni_goe_transparent.png Graphic file (type png)
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 277.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [30
+
+]
+<figures/nadezhdina_02.png, id=1024, 328.22626pt x 514.92375pt>
+File: figures/nadezhdina_02.png Graphic file (type png)
+
+<use figures/nadezhdina_02.png>
+Package pdftex.def Info: figures/nadezhdina_02.png used on input line 277.
+(pdftex.def)             Requested size: 88.49959pt x 138.83484pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+
+ []
+
+File: logo_uni_goe_transparent.png Graphic file (type png)
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 277.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [31
+
+ <./figures/nadezhdina_02.png (PNG copy)>]
+File: figures/nadezhdina_02.png Graphic file (type png)
+ <use figures/nadezhdina_02.png>
+Package pdftex.def Info: figures/nadezhdina_02.png used on input line 277.
+(pdftex.def)             Requested size: 88.49959pt x 138.83484pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+
+ []
+
+File: logo_uni_goe_transparent.png Graphic file (type png)
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 277.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [32
+
+]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 293.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 293.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 293.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 293.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[33
+
+] <figures/vandegehuchte_01.png, id=1120, 1532.72626pt x 594.22pt>
+File: figures/vandegehuchte_01.png Graphic file (type png)
+
+<use figures/vandegehuchte_01.png>
+Package pdftex.def Info: figures/vandegehuchte_01.png used on input line 293.
+(pdftex.def)             Requested size: 307.28987pt x 119.13203pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 293.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [34
+
+ <./figures/vandegehuchte_01.png (PNG copy)>]
+<figures/HFDSeb_01_paper.png, id=1152, 1555.8125pt x 596.2275pt>
+File: figures/HFDSeb_01_paper.png Graphic file (type png)
+
+<use figures/HFDSeb_01_paper.png>
+Package pdftex.def Info: figures/HFDSeb_01_paper.png used on input line 293.
+(pdftex.def)             Requested size: 307.28987pt x 117.76045pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 293.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [35
+
+ <./figures/HFDSeb_01_paper.png (PNG copy)>]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 293.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[36
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 293.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [37
+
+]
+<figures/HFD_05_profile_simarouba.png, id=1247, 68.02414pt x 97.5645pt>
 File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
 
 <use figures/HFD_05_profile_simarouba.png>
 Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
-e 274.
+e 313.
 (pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 274.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 313.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
-[24
+[38
 
  <./figures/HFD_05_profile_simarouba.png>]
 File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
 
 <use figures/HFD_05_profile_simarouba.png>
 Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
-e 274.
+e 313.
 (pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 274.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 313.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
-[25
+[39
 
 ]
 File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
  <use figures/HFD_05_profile_simarouba.png>
 Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
-e 274.
+e 313.
 (pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
 
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 274.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 313.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [26
+ [40
 
 ]
 File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
 
 <use figures/HFD_05_profile_simarouba.png>
 Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
-e 274.
+e 313.
 (pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 274.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 313.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
-[27
+[41
 
 ]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 287.
+File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
+ <use figures/HFD_05_profile_simarouba.png>
+Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
+e 313.
+(pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 313.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [42
+
+]
+File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
+
+<use figures/HFD_05_profile_simarouba.png>
+Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
+e 313.
+(pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 313.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[43
+
+]
+File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
+ <use figures/HFD_05_profile_simarouba.png>
+Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
+e 328.
+(pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 328.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [44
+
+]
+File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
+
+<use figures/HFD_05_profile_simarouba.png>
+Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
+e 328.
+(pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 328.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[45
+
+]
+File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
+ <use figures/HFD_05_profile_simarouba.png>
+Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
+e 328.
+(pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 328.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [46
+
+]
+File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
+
+<use figures/HFD_05_profile_simarouba.png>
+Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
+e 328.
+(pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 328.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[47
+
+]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 342.
 
  (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1454,272 +1695,464 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: logo_uni_goe_transparent.png Graphic file (type png)
 
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 287.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 342.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [28
+ [48
 
 ]
+<figures/weibulldens.png, id=1596, 426.393pt x 170.5572pt>
+File: figures/weibulldens.png Graphic file (type png)
+
+<use figures/weibulldens.png>
+Package pdftex.def Info: figures/weibulldens.png used on input line 342.
+(pdftex.def)             Requested size: 245.83282pt x 98.33247pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 287.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 342.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [49
 
-[29
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 287.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [30
-
-]
+ <./figures/weibulldens.png (PNG copy)>]
+File: figures/weibulldens.png Graphic file (type png)
+ <use figures/weibulldens.png>
+Package pdftex.def Info: figures/weibulldens.png used on input line 342.
+(pdftex.def)             Requested size: 245.83282pt x 98.33247pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
 
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 287.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 342.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [31
+ [50
 
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 287.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 342.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
-[32
+[51
 
-] <figures/HFD_06_model.png, id=1087, 1126.2075pt x 993.7125pt>
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 342.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [52
+
+]
+<figures/HFD_06_model.png, id=1722, 1126.2075pt x 993.7125pt>
 File: figures/HFD_06_model.png Graphic file (type png)
 
 <use figures/HFD_06_model.png>
-Package pdftex.def Info: figures/HFD_06_model.png used on input line 292.
+Package pdftex.def Info: figures/HFD_06_model.png used on input line 347.
 (pdftex.def)             Requested size: 253.4373pt x 223.63077pt.
 
-Overfull \vbox (6.1598pt too high) detected at line 292
+Overfull \vbox (6.1598pt too high) detected at line 347
  []
 
 File: logo_uni_goe_transparent.png Graphic file (type png)
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 292.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 347.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [33
+ [53
 
- <./figures/HFD_06_model.png (PNG copy)>] <figures/HFD_02_profiles.png, id=1120
+ <./figures/HFD_06_model.png (PNG copy)>] <figures/HFD_02_profiles.png, id=1755
 , 711.31747pt x 569.03592pt>
 File: figures/HFD_02_profiles.png Graphic file (type png)
 
 <use figures/HFD_02_profiles.png>
-Package pdftex.def Info: figures/HFD_02_profiles.png used on input line 296.
+Package pdftex.def Info: figures/HFD_02_profiles.png used on input line 351.
 (pdftex.def)             Requested size: 310.60367pt x 248.48033pt.
 
-Overfull \hbox (3.3138pt too wide) in paragraph at lines 296--296
+Overfull \hbox (3.3138pt too wide) in paragraph at lines 351--351
 [][]  
  []
 
 
-Overfull \vbox (1.0pt too high) detected at line 296
+Overfull \vbox (1.0pt too high) detected at line 351
  []
 
 File: logo_uni_goe_transparent.png Graphic file (type png)
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 296.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 351.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [34
+ [54
 
  <./figures/HFD_02_profiles.png (PNG copy)>]
 File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
  <use figures/HFD_05_profile_simarouba.png>
 Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
-e 309.
+e 364.
 (pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
 
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 309.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 364.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [35
+ [55
 
 ]
 File: figures/HFD_05_profile_simarouba.png Graphic file (type png)
 
 <use figures/HFD_05_profile_simarouba.png>
 Package pdftex.def Info: figures/HFD_05_profile_simarouba.png used on input lin
-e 309.
+e 364.
 (pdftex.def)             Requested size: 116.77164pt x 167.4816pt.
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 309.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
-
-[36
-
-] <figures/HFD_03a_k_responses.png, id=1215, 451.6875pt x 185.91458pt>
-File: figures/HFD_03a_k_responses.png Graphic file (type png)
-
-<use figures/HFD_03a_k_responses.png>
-Package pdftex.def Info: figures/HFD_03a_k_responses.png used on input line 320
-.
-(pdftex.def)             Requested size: 307.28987pt x 126.48831pt.
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 320.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
-
-[37
-
- <./figures/HFD_03a_k_responses.png>]
-<figures/HFD_03b_lambda_responses.png, id=1248, 451.6875pt x 185.91458pt>
-File: figures/HFD_03b_lambda_responses.png Graphic file (type png)
-
-<use figures/HFD_03b_lambda_responses.png>
-Package pdftex.def Info: figures/HFD_03b_lambda_responses.png used on input lin
-e 331.
-(pdftex.def)             Requested size: 307.28987pt x 126.48831pt.
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 331.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
-
-[38
-
- <./figures/HFD_03b_lambda_responses.png>]
-File: logo_uni_goe_transparent.png Graphic file (type png)
-
-<use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 340.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [39
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 340.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
-
-[40
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 340.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [41
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
-
-<use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 350.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [42
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 357.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
-
-[43
-
-]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
 Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 364.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [44
+
+[56
+
+] <figures/HFD_03a_k_responses.png, id=1851, 451.6875pt x 185.91458pt>
+File: figures/HFD_03a_k_responses.png Graphic file (type png)
+
+<use figures/HFD_03a_k_responses.png>
+Package pdftex.def Info: figures/HFD_03a_k_responses.png used on input line 376
+.
+(pdftex.def)             Requested size: 307.28987pt x 126.48831pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 376.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[57
+
+ <./figures/HFD_03a_k_responses.png>]
+<figures/weibulldens_K.png, id=1885, 569.0058pt x 234.1548pt>
+File: figures/weibulldens_K.png Graphic file (type png)
+
+<use figures/weibulldens_K.png>
+Package pdftex.def Info: figures/weibulldens_K.png used on input line 376.
+(pdftex.def)             Requested size: 307.28987pt x 126.45242pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 376.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [58
+
+ <./figures/weibulldens_K.png (PNG copy)>]
+<figures/HFD_03b_lambda_responses.png, id=1916, 451.6875pt x 185.91458pt>
+File: figures/HFD_03b_lambda_responses.png Graphic file (type png)
+
+<use figures/HFD_03b_lambda_responses.png>
+Package pdftex.def Info: figures/HFD_03b_lambda_responses.png used on input lin
+e 388.
+(pdftex.def)             Requested size: 307.28987pt x 126.48831pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 388.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[59
+
+ <./figures/HFD_03b_lambda_responses.png>]
+<figures/weibulldens_lambda.png, id=1951, 569.0058pt x 234.1548pt>
+File: figures/weibulldens_lambda.png Graphic file (type png)
+
+<use figures/weibulldens_lambda.png>
+Package pdftex.def Info: figures/weibulldens_lambda.png used on input line 388.
+
+(pdftex.def)             Requested size: 307.28987pt x 126.45242pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 388.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[60
+
+ <./figures/weibulldens_lambda.png (PNG copy)>]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 398.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [61
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 398.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[62
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 398.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [63
 
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
 
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 373.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 398.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [45
+ [64
 
 ]
+<figures/schuldt_2015_VC.png, id=2107, 1044.90375pt x 727.71875pt>
+File: figures/schuldt_2015_VC.png Graphic file (type png)
+
+<use figures/schuldt_2015_VC.png>
+Package pdftex.def Info: figures/schuldt_2015_VC.png used on input line 420.
+(pdftex.def)             Requested size: 199.73653pt x 139.1008pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 380.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 420.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [65
 
-[46
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 389.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [47
-
-]
+ <./figures/schuldt_2015_VC.png (PNG copy)>]
+File: figures/schuldt_2015_VC.png Graphic file (type png)
+ <use figures/schuldt_2015_VC.png>
+Package pdftex.def Info: figures/schuldt_2015_VC.png used on input line 420.
+(pdftex.def)             Requested size: 199.73653pt x 139.1008pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
 
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 397.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 420.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [48
+ [66
 
 ]
+<figures/map_03_osa.png, id=2172, 1006.76125pt x 967.615pt>
+File: figures/map_03_osa.png Graphic file (type png)
+
+<use figures/map_03_osa.png>
+Package pdftex.def Info: figures/map_03_osa.png used on input line 442.
+(pdftex.def)             Requested size: 147.49782pt x 141.7549pt.
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 405.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
-
-[49
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 414.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [50
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
-
-<use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 421.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [51
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 428.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
-
-[52
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
- <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 435.
-(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [53
-
-]
-File: logo_uni_goe_transparent.png Graphic file (type png)
-
-<use logo_uni_goe_transparent.png>
 Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 442.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [54
+ [67
+
+ <./figures/map_03_osa.png>] <figures/field1.jpg, id=2208, 722.7pt x 1284.8pt>
+File: figures/field1.jpg Graphic file (type jpg)
+
+<use figures/field1.jpg>
+Package pdftex.def Info: figures/field1.jpg used on input line 442.
+(pdftex.def)             Requested size: 110.62335pt x 196.65218pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 442.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [68
+
+ <./figures/field1.jpg>] <figures/field2.jpg, id=2240, 722.7pt x 1284.8pt>
+File: figures/field2.jpg Graphic file (type jpg)
+
+<use figures/field2.jpg>
+Package pdftex.def Info: figures/field2.jpg used on input line 442.
+(pdftex.def)             Requested size: 110.62335pt x 196.65218pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 442.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [69
+
+ <./figures/field2.jpg>] <figures/field3.jpg, id=2272, 2987.16pt x 3982.88pt>
+File: figures/field3.jpg Graphic file (type jpg)
+
+<use figures/field3.jpg>
+Package pdftex.def Info: figures/field3.jpg used on input line 442.
+(pdftex.def)             Requested size: 117.9987pt x 157.28253pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 442.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [70
+
+ <./figures/field3.jpg>] <figures/cavi01.jpg, id=2305, 351.3125pt x 301.125pt>
+File: figures/cavi01.jpg Graphic file (type jpg)
+
+<use figures/cavi01.jpg>
+Package pdftex.def Info: figures/cavi01.jpg used on input line 442.
+(pdftex.def)             Requested size: 147.49782pt x 126.43027pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 442.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [71
+
+ <./figures/cavi01.jpg>] <figures/cavi02.jpg, id=2338, 326.21875pt x 404.51125p
+t>
+File: figures/cavi02.jpg Graphic file (type jpg)
+
+<use figures/cavi02.jpg>
+Package pdftex.def Info: figures/cavi02.jpg used on input line 442.
+(pdftex.def)             Requested size: 132.74713pt x 164.61003pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 442.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [72
+
+ <./figures/cavi02.jpg>]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 450.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [73
+
+]
+File: figures/schuldt_2015_VC.png Graphic file (type png)
+
+<use figures/schuldt_2015_VC.png>
+Package pdftex.def Info: figures/schuldt_2015_VC.png used on input line 463.
+(pdftex.def)             Requested size: 116.77164pt x 81.31517pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 463.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [74
+
+]
+File: figures/schuldt_2015_VC.png Graphic file (type png)
+
+<use figures/schuldt_2015_VC.png>
+Package pdftex.def Info: figures/schuldt_2015_VC.png used on input line 463.
+(pdftex.def)             Requested size: 116.77164pt x 81.31517pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 463.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [75
+
+]
+File: figures/schuldt_2015_VC.png Graphic file (type png)
+
+<use figures/schuldt_2015_VC.png>
+Package pdftex.def Info: figures/schuldt_2015_VC.png used on input line 463.
+(pdftex.def)             Requested size: 116.77164pt x 81.31517pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 463.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [76
+
+]
+File: figures/schuldt_2015_VC.png Graphic file (type png)
+
+<use figures/schuldt_2015_VC.png>
+Package pdftex.def Info: figures/schuldt_2015_VC.png used on input line 463.
+(pdftex.def)             Requested size: 116.77164pt x 81.31517pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 463.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [77
+
+]
+File: figures/schuldt_2015_VC.png Graphic file (type png)
+
+<use figures/schuldt_2015_VC.png>
+Package pdftex.def Info: figures/schuldt_2015_VC.png used on input line 463.
+(pdftex.def)             Requested size: 116.77164pt x 81.31517pt.
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 463.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [78
+
+]
+<figures/VC_02_preliminary_plot.jpg, id=2558, 682.7106pt x 511.6716pt>
+File: figures/VC_02_preliminary_plot.jpg Graphic file (type jpg)
+
+<use figures/VC_02_preliminary_plot.jpg>
+Package pdftex.def Info: figures/VC_02_preliminary_plot.jpg used on input line 
+468.
+(pdftex.def)             Requested size: 298.38304pt x 223.63077pt.
+
+Overfull \vbox (6.1598pt too high) detected at line 468
+ []
+
+File: logo_uni_goe_transparent.png Graphic file (type png)
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 468.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [79
+
+ <./figures/VC_02_preliminary_plot.jpg>]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 477.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [80
 
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 451.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 485.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
 
-[55
+[81
 
 ]
 File: logo_uni_goe_transparent.png Graphic file (type png)
  <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 459.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 493.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [56
+ [82
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 502.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [83
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 509.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[84
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 516.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [85
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 523.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [86
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 530.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+
+[87
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+ <use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 539.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [88
+
+]
+File: logo_uni_goe_transparent.png Graphic file (type png)
+
+<use logo_uni_goe_transparent.png>
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 547.
+(pdftex.def)             Requested size: 85.0pt x 72.37164pt.
+ [89
 
 ]
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
@@ -1728,9 +2161,9 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 File: logo_uni_goe_transparent.png Graphic file (type png)
 
 <use logo_uni_goe_transparent.png>
-Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 469.
+Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 557.
 (pdftex.def)             Requested size: 85.0pt x 72.37164pt.
- [57
+ [90
 
 ]
 \tf@nav=\write6
@@ -1742,37 +2175,38 @@ Package pdftex.def Info: logo_uni_goe_transparent.png used on input line 469.
 \tf@snm=\write8
 \openout8 = `2018-01-25_Roman_Link_-_Drought_in_tropical_forests.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 470.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 470.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 558.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 558.
 
 (./2018-01-25_Roman_Link_-_Drought_in_tropical_forests.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 470.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 470.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 558.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 558.
 Package rerunfilecheck Info: File `2018-01-25_Roman_Link_-_Drought_in_tropical_
 forests.out' has not changed.
 (rerunfilecheck)             Checksum: 8A44E8A5F7B5C4A9038EA5246B900429;256.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 470.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 558.
  ) 
 Here is how much of TeX's memory you used:
- 20530 strings out of 493029
- 382231 string characters out of 6136233
- 466990 words of memory out of 5000000
- 23399 multiletter control sequences out of 15000+600000
- 81861 words of font info for 80 fonts, out of 8000000 for 9000
+ 20692 strings out of 493029
+ 385323 string characters out of 6136233
+ 467986 words of memory out of 5000000
+ 23480 multiletter control sequences out of 15000+600000
+ 84950 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,59p,431b,773s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,59p,431b,726s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/euler/eurm10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx
 10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fo
-nts/type1/public/lm/lmtt10.pfb>
-Output written on 2018-01-25_Roman_Link_-_Drought_in_tropical_forests.pdf (57 p
-ages, 13699802 bytes).
+nts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pf
+b>
+Output written on 2018-01-25_Roman_Link_-_Drought_in_tropical_forests.pdf (90 p
+ages, 20609180 bytes).
 PDF statistics:
- 1936 PDF objects out of 2073 (max. 8388607)
- 1811 compressed objects within 19 object streams
- 120 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3010 PDF objects out of 3580 (max. 8388607)
+ 2826 compressed objects within 29 object streams
+ 186 named destinations out of 1000 (max. 500000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
 
