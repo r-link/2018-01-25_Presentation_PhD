@@ -132,10 +132,9 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 \begin{frame}
 	\frametitle{Structure of my PhD project}
 	\begin{itemize}
-		\item<+-| alert@+> Introduction
 		\item<+-| alert@+>  \Blue{Chapter 1:} Predicting radial sap flow profiles from Costa Rican tropical dry forest species
 		\item<+-| alert@+>  \Blue{Chapter 2:} Estimating plant vulnerability to embolism in Costa Rican humid tropical forest species
-		\item<+-| alert@+>  \Blue{Chapter 3:} Relationship between productivity, structural and functional, wood anatomical and hydraulic traits of tropical forest species from Costa Rica
+		\item<+-| alert@+>  \Blue{Chapter 3:} Relationship between productivity, structural, functional, wood anatomical and hydraulic traits of tropical forest species from Costa Rica
 		\item<visible@+-> \Blue{Bonus Chapter:} 
 		\alert<5>{Maximum-likelihood estimation of xylem vessel lengths}\visible<6>{: \alert<6>{\textbf{Not in the focus of this presentation!}}
 		}
@@ -164,7 +163,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\begin{itemize}[<+-| alert@+>]
 			\item 5 research sites along a rainfall gradient on the Pacific shoreline of Costa Rica 			
 			\item Gradient from tropical dry forest to humid tropical lowland forest
-			\item Based on existing research sites of the \Blue{Instituto Tecnológico de Costa Rica}
+			\item Based on existing research sites of the \textbf{Instituto Tecnológico de Costa Rica}
 		\end{itemize}		
 	\end{minipage}
 	\begin{minipage}{0.48\tw}
@@ -178,7 +177,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\textbf{ At each of the 5 research sites:}
 		\begin{itemize}[<+-| alert@+>]
 			\item 8 species representing a gradient in tree height and wood density
-			\item 5 replicates per species
+			\item 5 replicates per species (only mature trees)
 			\item[\Rar] 40 trees per site, 200 trees in total
 		\end{itemize}	
 	\end{minipage}
@@ -226,7 +225,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 			\item<+-| alert@+> Cooperation with forestry department (foresters do forester things...)
 		\end{itemize}	
 		\item<visible@+-| alert@+>[\rar] Plot-based comparisons are difficult
-		\item<visible@+-| alert@+>[\Rar] Not that important for our (eco-physiological) research questions, but limits usability of plot network for other research areas
+		\item<visible@+-| alert@+>[\Rar] Not that important for my (eco-physiological) research questions, but limits usability of plot network for other research areas
 	\end{itemize}
 \end{frame}
 
@@ -256,6 +255,23 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	\includegraphics[height = \textheight]{figures/horizontes_WD_height1.png}
 \end{frame}
 
+\begin{frame}
+	\frametitle{First chapter: radial sap flow profiles}
+  \Blue{Additionally measured:}
+  \begin{itemize}
+  	\item \alert{Soil water content}
+  	\begin{itemize}
+  		\item 1 measurement for each of the 4 campaign
+  		\item 1 soil sample per subplot ($4\times45$ in total)
+  	\end{itemize}
+  	\item \alert{Vertical microclimate}
+  	\begin{itemize}
+  		\item Temperature + air humidity tracked with \textit{iButtons}
+  		\item Measured from ground level to canopy in 5~m steps
+  		\item 3 measurement lines
+  	\end{itemize}
+  \end{itemize}
+\end{frame}
 
 \begin{frame}
 	\frametitle{Heat field deformation sensors}
@@ -279,17 +295,18 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 \begin{frame}[t]
 	\frametitle{Heat field deformation sensors}
 	\begin{itemize}
-		\item<only@1| alert@1> Original idea: Comparison of sap flow and plant water use between species with different trait combinations
+		\item<only@1| alert@1> Original idea: comparison of sap flow and plant water use between species with different trait combinations
 		\item<only@2-> Problem: newer research indicates that
 		\begin{itemize}
 			\item[a)]<2-| alert@2> The mechanistic explanation of the HFD method (Nadezhdina et al., 2012) is flawed (Vandegehuchte \& Steppe, 2012)\\ \rar\ species-specific calibration likely necessary in most cases
-			\item[b)]<3-| alert@3> HFD calibration parameters are not consistent within species (Fuchs et al., 2017)
+			\item[b)]<3-| alert@3-4> HFD calibration parameters are not consistent within species (Fuchs et al., 2017)
 		\end{itemize}	
-		\item<only@4-| alert@4>\textit{ Relative values} are probably reliable, \textit{absolute values} have to be handled with care
-		\item<only@5| alert@5>[\Rar] \textbf{Decision for analysis: better to put focus on radial gradients of sap flux}
+		\item<only@5-| alert@5>\textit{ Relative values} are probably reliable, \textit{absolute values} have to be handled with care
+		\item<only@6| alert@6>[\Rar] \textbf{Decision for analysis: better to put focus on radial gradients of sap flux}
 	\end{itemize}
 	\only<2>{\includegraphics[width = \tw]{figures/vandegehuchte_01.png}}
-  \only<3>{\includegraphics[width = \tw]{figures/HFDSeb_01_paper.png}}	
+  \only<3>{\includegraphics[width = \tw]{figures/HFDSeb_01_paper.png}}
+  \only<4>{\centering \includegraphics[width = 0.45\tw]{figures/HFDSeb_02_accuracy.png}}		
 \end{frame}
 
 \begin{frame}
@@ -415,7 +432,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 			\end{itemize}
 		\end{itemize}  
 		\only<2>{\vspace{0.65em}}
-		\source{Image source: Schuldt et al., 2015}
+		\source{Image source: Schuldt et al., 2016}
 	\end{changemargin}	
 \end{frame}
 
@@ -443,10 +460,29 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 
 
 \begin{frame}
-	\frametitle{Research questions \& hypotheses}
+	\frametitle{Second chapter: vulnerability curves}
+	\Blue{Additionally measured for each tree:}
 	\begin{itemize}
-		\item Plant vulnerability to embolism can be predicted by structural, functional and wood anatomical traits
+		\item Maximum vessel length (1 per tree)
+		\item Leaf nutrient contents (1 per sample)
+		\item Specific leaf area (1 per sample)
+		\item Anatomy of branch wood  (2 per sample)
+		\item Huber value  (1 per sample)
+		\item Branch non-structural carbohydrate storage  (1 per tree)
 	\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}
+  \begin{block}{\textbf{Hypothesis}}
+  Plant vulnerability to embolism can be predicted by structural, functional and wood anatomical traits:
+  \begin{itemize}
+  	\item Tree size (height and diameter)
+  	\item Wood density
+  	\item Vessel diameter \& vessel density
+  \end{itemize}
+  \end{block}
 \end{frame}
 
 \begin{frame}
@@ -459,7 +495,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\item<visible@4-| alert@4>[\Rar] \textbf{Nonlinear hierarchical models}\\ (analogous to models for radial sap flow profiles)
 		\item<visible@5| alert@5>[\Rar] \textbf{\Large Data analysis in progress}
 	\end{itemize}	
-	\source{Image source: Schuldt et al., 2015}
+	\source{Image source: Schuldt et al., 2016}
 \end{frame}
 
 \begin{frame}
@@ -469,90 +505,165 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 
 \section{The big picture}
 \begin{frame}
-	\frametitle{The big picture}
-	\begin{itemize}
-		\item Do structural, functional and wood anatomical traits explain changes in productivity and hydraulic traits? 
-		\item How are these changes related to the rainfall gradient?
-	\end{itemize}
+	\begin{block}{\textbf{Third chapter: moving on to the big picture}}
+		\begin{itemize}
+			\item Do structural, functional and wood anatomical traits explain changes in productivity and hydraulic traits observed along the rainfall gradient? 
+			\item What is the role of non-structural carbohydrate storage?
+		\end{itemize}
+	\end{block}	
 \end{frame}
 
 \begin{frame}
-	\frametitle{Growth data}
-	\begin{itemize}
-		\item short description
-		\item picture
-	\end{itemize}
-\end{frame}
-
-\begin{frame}
-	\frametitle{Wood anatomy}
-	\begin{itemize}
-		\item short description
-		\item picture
-	\end{itemize}
-\end{frame}
-
-\begin{frame}
-	\frametitle{Non-structural carbohydrates}
-	\begin{itemize}
-		\item short description
-		\item picture
-		\item data not available so far
-	\end{itemize}
+	\frametitle{Synthesizing the results of the gradient study}	\Blue{Variables that are relevant for the synthesis}
+	\begin{itemize}[<+-| alert@+>]
+		\item Tree size (tree height + diameter at breast height)
+		\item Wood density
+		\item Wood anatomy (average vessel diameter, vessel density, potential hydraulic conductivity)
+		\item Wood non-structural carbohydrate contents
+		\item Productivity (basal area increment/aboveground biomass increment)
+		\item Climate information (?)
+		\item<visible@+| alert@+> \textbf{Sap flow data an vulnerability curves are unfortunately not available for all sides and cannot be included}		
+	\end{itemize}	
 \end{frame}
 
 \begin{frame}
 	\frametitle{Research questions \& hypotheses}
+	\begin{changemargin}{-2em}{-2em}
+		\Blue{Hypotheses from the project proposal related to these variables}
+		\begin{itemize}
+			\item \alert<1>{\textbf{Productivity}}
+			\begin{itemize}
+				\item increases with potential hydraulic conductivity
+				\item is related to tree height
+				\item is related to wood density (only at seasonally dry sites)
+			\end{itemize}
+			\item<2-> \alert<2>{\textbf{Potential hydraulic conductivity}}
+			\begin{itemize}
+				\item increases with tree height
+			\end{itemize}
+			\item<3-> \alert<3>{\textbf{Average vessel diameter}}
+			\begin{itemize}
+				\item increases with tree height (in trunk and branches)
+			\end{itemize}
+			\item<4-> \alert<4>{\textbf{NSC storage}}
+			\begin{itemize}
+				\item increases with tree size
+				\item is higher at seasonally dry sites
+				\item is higher in deciduous trees/trees with isohydric drought response
+			\end{itemize}
+		\end{itemize}
+	\end{changemargin}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Data analysis}
 	\begin{itemize}
-		\item Lots and lots of hypotheses
+		\item<+-| alert@+> Large amount of interrelated causal hypotheses about relationships between variables
+		\item<+-| alert@+>[\Rar] Instead of focusing on the bivariate relationships in our system one at a time, test them all at once
+		\item<visible@+-| alert@+>[\Rar]\textbf{Structural equation modeling}
+		\begin{itemize}
+			\item Modeling framework for the multivariate analysis of networks of causal hypotheses
+			\item Allows to test whether a system significantly deviates from a model based on a-priori hypotheses about the system
+		\end{itemize}		
 	\end{itemize}
 \end{frame}
 
 \begin{frame}
 	\frametitle{Data analysis}
 	\begin{itemize}
-		\item Short explanation of structural equation models		
+		\item Dataset is not complete (NSC data are being measured)
+		\item To show what the analysis will look like - results from a study using an analogous model:\\
+		
+		\vspace{1em} Kotowska, M.M., Röll, A., \alert{Link, R.M.,} Hertel, D., Hölscher, D., Leuschner, C., Waite, P.A., Moser, G., Toja, A, Schuldt, B. (2018): \textit{Tree size in combination with wood anatomy determines whole-tree water use and productivity in the tropics} (in preparation)		
+		
+	\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}
+	\frametitle{Meta-model}
+	\begin{changemargin}{-2em}{-2em}
+		\centering
+		\only<1>{\includegraphics[height = 0.52\textheight]{figures/SEMartyna_01_metamodel.png}}
+		\only<2->{\includegraphics[height = 0.52\textheight]{figures/SEMartyna_02_metamodel1.png}}
+		\begin{itemize}
+			\item<alert@1> \textbf{Meta-model:} relationships between theoretical entities/constructs of interest
+			\item<2-| alert@2> Updated because to reflect the different effects of the components of both tree size and sap flow
+			\item<visible@3| alert@3> For our model: remove sap flow component, add component for NSC
+		\end{itemize}
+	\end{changemargin}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Causal diagram}
+	\begin{changemargin}{-2em}{-2em}
+		\centering
+	\includegraphics[height = 0.6\textheight]{figures/SEMartyna_03_causal_diagram.png}
+		\begin{itemize}
+			\item<alert@1> \textbf{Causal diagram:} Representation of the variables in the model and the assumed causal links
+			\item<2-| alert@2> Blue arrows: links related to a priori hypotheses
+		\end{itemize}
+	\end{changemargin}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Path diagram of final model}
+	\centering
+	\includegraphics[height = 0.65\textheight]{figures/SEMartyna_04_path_diagram.png}
+	\begin{itemize}[<+-| alert@+>]
+		\item $\chi$² = 3.35, df = 7, p = 0.850; CFI = 1.00, RMSEA = 0.00
+		\item Links were removed when related to tests of a priori hypotheses that were not significant 
 	\end{itemize}
 \end{frame}
 
 \begin{frame}
-	\frametitle{Meta-model \& causal diagram}
+	\frametitle{Summary: current state of the project}	
 	\begin{itemize}
-		\item figures on one or two slides		
+		\item<1-> \Blue{Chapter 1: radial sap flow profiles}
+		\begin{itemize}
+			\item Dataset complete
+			\item Preliminary results: shape of radial profiles significantly predicted by wood density and tree height, but effect minute compared to random stem differences 
+			\item \textbf{Current state: \alert<1>{data analysis}}
+		\end{itemize}
+		\item<2-> \Blue{Chapter 2: Vulnerability curves}
+		\begin{itemize}
+			\item Leaf nutrient contents, branch NSC and branch anatomy missing
+			\item \textbf{Current state: \alert<2>{waiting for data}}
+		\end{itemize}
+		\item<3-> \Blue{Chapter 3: Structural equation models}
+		\begin{itemize}
+			\item NSC dataset missing
+			\item \textbf{Current state: \alert<3>{waiting for data}}
+		\end{itemize}
+		\item<4-> \Blue{Bonus chapter: Vessel lengths}
+		\begin{itemize}
+			\item \textbf{Current state: \alert<4>{submitted}}
+		\end{itemize}
 	\end{itemize}
 \end{frame}
 
-\begin{frame}
-	\frametitle{Example for SEM: Martyna's paper}
-	\begin{itemize}
-		\item Meta-model, causal diagram \& final path model	
-	\end{itemize}
-\end{frame}
 
-\begin{frame}
-	\frametitle{Summary}
-	\begin{itemize}
-		\item Sap flow
-		\item Vulnerability curves
-		\item SEM
-	\end{itemize}
-\end{frame}
-
-
-\begin{frame}
-	\frametitle{Thanks \& goodbye}
-	\begin{itemize}
-		\item Names of assistants (pictures?)
-	\end{itemize}
-\end{frame}
+{
+	\usebackgroundtemplate{\includegraphics[height=\paperheight,width=\paperwidth]{figures/thankyou.jpg}}
+	\setbeamertemplate{navigation symbols}{}
+	\begin{frame}[plain]
+	\end{frame}
+}
 
 \section{References}
-\begin{frame}
+\begin{frame}[t]
 	\frametitle{References}
-	\begin{itemize}
-		\item \textbf{Fuchs S, Leuschner C, Link R, Coners H, Schuldt B, 2017.}
-		Calibration and comparison of thermal dissipation, heat ratio and heat field deformation sap flow probes for diffuse-porous trees,
-		\textit{Agricultural and Forest Meteorology} \textbf{244–245},151-161. \url{https://doi.org/10.1016/j.agrformet.2017.04.003.}.
-	\end{itemize}
+	\begin{changemargin}{-2em}{-2em}
+		\footnotesize
+		\begin{itemize}
+			\item \textbf{Fuchs S, Leuschner C, Link R, Coners H, Schuldt B, 2017.}
+			Calibration and comparison of thermal dissipation, heat ratio and heat field deformation sap flow probes for diffuse-porous trees,
+			\textit{Agricultural and Forest Meteorology} \textbf{244–245}, 151-161. \url{https://doi.org/10.1016/j.agrformet.2017.04.003}.
+			\item \textbf{Nadezhdina, N, Vandegehuchte, MW, Steppe, K, 2012.} Sap flux density measurements based on the heat field deformation method. \textit{Trees} \textbf{26(5)}, 1439-1448.
+			\item \textbf{Schuldt B, Knutzen F, Delzon S, Jansen S, Müller-Haubold H, Burlett R, Clough, Y, Leuschner, C, 2016.} How adaptable is the hydraulic system of European beech in the face of climate change-related precipitation reduction?. \textit{New Phytologist} \textbf{210(2)}, 443-458.
+			\item \textbf{Vandegehuchte, MW,  Steppe, K, 2012.} Interpreting the Heat Field Deformation method: Erroneous use of thermal diffusivity and improved correlation between temperature ratio and sap flux density. \textit{Agricultural and Forest Meteorology} \textbf{162}, 91-97.
+		\end{itemize}
+	\end{changemargin}
 \end{frame}
 \end{document}
