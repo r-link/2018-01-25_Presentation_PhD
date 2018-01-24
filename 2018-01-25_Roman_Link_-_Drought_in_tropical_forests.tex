@@ -334,12 +334,12 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	\begin{minipage}{0.38\tw}
 		\includegraphics[width = \tw]{figures/HFD_05_profile_simarouba.png}
 	\end{minipage}
-	\begin{minipage}{0.6\tw}				
-		\begin{itemize}[<+-| alert@+>]
+	\begin{minipage}{0.6\tw}		
+		   \Blue{How to analyze?}		
+		\begin{itemize}[<+-| alert@+>]			
 			\item Nonlinear relationship
 			\item Parameters that control the shape of the nonlinear relationship depend on other variables
-			\item Hierarchical data structure (repeated observations in replicate trees from different species)		
-			\item<visible@4| alert@4>[\Rar] \textbf{How to analyze?}
+			\item Hierarchical data structure (repeated observations in replicate trees from different species)					
 		\end{itemize}
 	\end{minipage}
 \end{frame}
@@ -349,13 +349,13 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	\begin{itemize}
 		\item Analysis based on \Blue{Bayesian nonlinear hierarchical models}
 		\begin{itemize}			
-			\item<2-> \alert<2>{\textbf{First stage of the model:}} Nonlinear relationship between sensor depth and predicted flux density modeled by density function of the Weibull distribution
-			\item<3->  \alert<3>{\textbf{Second stage of the model:}} Parameters of the Weibull distribution modeled as a function of wood density, tree height and their interaction, accounting for species and stem specific random variation
-			\item<only@4->  \alert<4>{Model fitting with the \textbf{Stan modeling language}}
+			\item<2-> \alert<2>{\textbf{First stage of the model:}} Nonlinear relationship between sensor depth and predicted flux density modeled with the density function of the Weibull distribution
+			\item<4->  \alert<4>{\textbf{Second stage of the model:}} Parameters of the Weibull distribution modeled as a function of wood density, tree height and their interaction, accounting for species and stem specific random variation
+			\item<only@5->  \alert<5>{Model fitting with the \textbf{Stan modeling language}}
 		\end{itemize}
-		\item<only@5| alert@5> Models still need tuning \rar\ shown results are from preliminary model based on R package \texttt{nlme}
+		\item<only@6| alert@6> Models still need tuning \rar\ shown results are from preliminary model based on R package \texttt{nlme}
 	\end{itemize}
-	  \only<2-3>{\includegraphics[width = 0.8\tw]{figures/weibulldens.png}}
+	  \only<3-4>{\includegraphics[width = 0.8\tw]{figures/weibulldens.png}}
 \end{frame}
 
 \begin{frame}
@@ -381,25 +381,25 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 \end{frame}
 
 \begin{frame}[t]
-	\frametitle{Preliminary results II - parameter models}
-		\only<1>{\includegraphics[width=\tw]{figures/HFD_03a_k_responses.png}}
-		\only<2>{\includegraphics[width=\tw]{figures/weibulldens_K.png}}
+	\frametitle{Preliminary results II - parameter model for K}
+		\only<1>{\includegraphics[width=\tw]{figures/weibulldens_K.png}}
+		\only<2>{\includegraphics[width=\tw]{figures/HFD_03a_k_responses.png}}
 		\begin{itemize}
 		\item \Blue{Weibull shape parameter K} 
-			\begin{itemize}
-				\item	No significant height- and wood density effects
+			\begin{itemize}							
+				\item<visible@2>	No significant height- and wood density effects
 			\end{itemize}
 	\end{itemize}
 \end{frame}
 
 \begin{frame}[t]
-	\frametitle{Preliminary results II - parameter models}
-  \only<1>{\includegraphics[width=\tw]{figures/HFD_03b_lambda_responses.png}}
-	\only<2>{\includegraphics[width=\tw]{figures/weibulldens_lambda.png}}
+	\frametitle{Preliminary results II - parameter model for $\lambda$}
+	\only<1>{\includegraphics[width=\tw]{figures/weibulldens_lambda.png}}
+  \only<2>{\includegraphics[width=\tw]{figures/HFD_03b_lambda_responses.png}}
 	\begin{itemize}
 		\item \Blue{Weibull scale parameter $\lambda$}
 		\begin{itemize}
-			\item Decreases significantly with tree height and wood density, but significantly less so in trees that are both large AND have hard wood
+			\item<visible@2> Decreases significantly with tree height and wood density, but significantly less so in trees that are both large AND have hard wood
 		\end{itemize}	
 	\end{itemize}
 \end{frame}
@@ -422,8 +422,8 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\centering{
 			\includegraphics[width=0.65\tw]{figures/schuldt_2015_VC.png}}
 		\begin{itemize}
-			\item<only@1> Relationship between \alert{water potential} and \alert{percentage loss of conductivity} (PLC)
-			\item<only@1>[\rar] shows the loss of conductive function under increasingly dry conditions
+			\item<only@1> \alert{Vulnerability curves:} relationship between \alert{water potential} and \alert{percentage loss of conductivity} (PLC)
+			\item<only@1>[\rar] curve describes the loss of conductive function under increasingly dry conditions
 			\item<only@2> \alert{Parameters of vulnerability curves:} important predictors of drought response
 			\begin{itemize}
 				\item  \Blue{P\sub{50}:} At what pressure 
@@ -476,7 +476,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 
 \begin{frame}
   \begin{block}{\textbf{Hypothesis}}
-  Plant vulnerability to embolism can be predicted by structural, functional and wood anatomical traits:
+  The parameters of vulnerability curves are significantly related to plant structural, functional and wood anatomical traits:
   \begin{itemize}
   	\item Tree size (height and diameter)
   	\item Wood density
@@ -508,7 +508,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	\begin{block}{\textbf{Third chapter: moving on to the big picture}}
 		\begin{itemize}
 			\item Do structural, functional and wood anatomical traits explain changes in productivity and hydraulic traits observed along the rainfall gradient? 
-			\item What is the role of non-structural carbohydrate storage?
+			\item How are they related to non-structural carbohydrate storage?
 		\end{itemize}
 	\end{block}	
 \end{frame}
@@ -522,7 +522,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\item Wood non-structural carbohydrate contents
 		\item Productivity (basal area increment/aboveground biomass increment)
 		\item Climate information (?)
-		\item<visible@+| alert@+> \textbf{Sap flow data an vulnerability curves are unfortunately not available for all sides and cannot be included}		
+		\item<visible@+| alert@+> \textbf{Sap flow data and vulnerability curves: unfortunately not available for all sites}		
 	\end{itemize}	
 \end{frame}
 
@@ -572,9 +572,9 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	\frametitle{Data analysis}
 	\begin{itemize}
 		\item Dataset is not complete (NSC data are being measured)
-		\item To show what the analysis will look like - results from a study using an analogous model:\\
+		\item<2-> To show what the analysis will look like - results from a study using an analogous model:\\
 		
-		\vspace{1em} Kotowska, M.M., Röll, A., \alert{Link, R.M.,} Hertel, D., Hölscher, D., Leuschner, C., Waite, P.A., Moser, G., Toja, A, Schuldt, B. (2018): \textit{Tree size in combination with wood anatomy determines whole-tree water use and productivity in the tropics} (in preparation)		
+		\vspace{1em} \blue{Kotowska, M.M., Röll, A., \alert{Link, R.M.,} Hertel, D., Hölscher, D., Leuschner, C., Waite, P.A., Moser, G., Toja, A, Schuldt, B. (2018):} \textit{Tree size in combination with wood anatomy determines whole-tree water use and productivity in the tropics} (in preparation)		
 		
 	\end{itemize}
 \end{frame}
@@ -642,6 +642,12 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\end{itemize}
 	\end{itemize}
 \end{frame}
+
+	\begin{frame}[plain]
+		\begin{block}{\textbf{Thanks list (in mostly alphabetical order):}}
+			Dagoberto Arias, Marvin Castillo, Sylvain Delzon, Adrian Fröhlich, Sebastian Fuchs, Steven Jansen, Christoph Leuschner, Erick Naranjo, Maynor Rodriguez, Luis Guillermo Romero, Bernhard Schuldt, Katja Steinhoff, Juan Carlos Valverde, the CIPA staff, the EEFH staff, the Escuela de Ingiería Forestal of the TEC, and everyone who feels forgotten
+		\end{block}		
+	\end{frame}
 
 
 {
