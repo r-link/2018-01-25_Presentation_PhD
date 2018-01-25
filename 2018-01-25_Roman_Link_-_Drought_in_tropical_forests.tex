@@ -130,31 +130,51 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 
 %% begin of regular slides ----------------------------------------------
 \begin{frame}
-	\frametitle{Structure of my PhD project}
+	\frametitle{Structure of the PhD project}
 	\begin{itemize}
 		\item<+-| alert@+>  \Blue{Chapter 1:} Predicting radial sap flow profiles from Costa Rican tropical dry forest species
 		\item<+-| alert@+>  \Blue{Chapter 2:} Estimating plant vulnerability to embolism in Costa Rican humid tropical forest species
 		\item<+-| alert@+>  \Blue{Chapter 3:} Relationship between productivity, structural, functional, wood anatomical and hydraulic traits of tropical forest species from Costa Rica
 		\item<visible@+-> \Blue{Bonus Chapter:} 
-		\alert<5>{Maximum-likelihood estimation of xylem vessel lengths}\visible<6>{: \alert<6>{\textbf{Not in the focus of this presentation!}}
+		\alert<4>{Maximum-likelihood estimation of xylem vessel lengths}\visible<5>{: \alert<5>{\textbf{Not in the focus of this presentation!}}
 		}
     \end{itemize}	
 \end{frame}
 
 \section{Introduction}
 \begin{frame}
-	\frametitle{Introduction}
-	\begin{itemize}
-		\item Basics about plant water relations
-		\item Why is it important to know about drought effects in the tropics?
-	\end{itemize}
+	\frametitle{Water transport in plants}
+		\begin{changemargin}{-2em}{-2em}
+			\begin{minipage}{0.52 \paperwidth}
+				\includegraphics[width = \tw]{figures/intro_01_stroock.png}\\
+				\centering{\source{Image source: Stroock et al., 2014}}
+			\end{minipage}
+			\begin{minipage}{0.4 \paperwidth}
+			\begin{itemize}				
+				\item<1-> Driving force: \alert<1>{gradient in water potentials}
+				\item<2-> Continuous water columns held together by \alert<2>{\textit{cohesion-tension-mechanism}}
+				\item<visible@3-| alert@3> [\rar]Liquid under tension: \textbf{metastable state}
+				\item<visible@4| alert@4> [\rar] If negative pressure too high:\\ \textbf{risk of embolism \&\\ loss of conductance}
+				\end{itemize}
+			\end{minipage}
+		\end{changemargin}
 \end{frame}
 
 \begin{frame}
-	\frametitle{Main research questions}
-	\begin{itemize}
-		\item This one's gonna be tough
-	\end{itemize}
+	\frametitle{Plant water relations in the tropics}
+   \begin{itemize}
+   	\item \textbf{Global change in the tropics}
+   	\begin{itemize}
+   		\item \alert<1>{Rise in temperatures}
+   		\item \alert<1>{Regionally decreasing precipitation}
+   		\item<2-| alert@2>[\rar] Increased transpirational demand for plants:\\ how do they cope?
+   	\end{itemize}
+   	\item<visible@3-> \textbf{ Focus of research:}
+   	\begin{itemize}
+   		\item<alert@3> How do tropical trees respond to drought on an ecophysiological level?
+   		\item<visible@4| alert@4>[\Rar] More mechanistical understanding of drought responses necessary (e.g. to improve global climate projections)
+   	\end{itemize}
+   \end{itemize}
 \end{frame}
 
 \begin{frame}
@@ -200,17 +220,17 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 				\item Wood density
 				\item Sapwood non-structural carbohydrate (NSC) content
 			\end{itemize}
-			 \item  \alert<1>{Site level}
+			 \item<2->  \alert<2>{Site level}
 			  \begin{itemize}
 			  	\item Temperature
 			  	\item Relative humidity 
 			  	\item Precipitation
 			  \end{itemize}
 		\end{itemize}		
-		\item<2> \Blue{Variables measured at a subset of sites}
+		\item<3> \Blue{Variables measured at a subset of sites}
 		\begin{itemize}
-			\item  \alert<2>{Sap flow} (only at one site)
-			\item  \alert<2>{Branch vulnerability to embolism} (only at two sites)
+			\item  \alert<3>{Sap flow} (only at one site)
+			\item  \alert<3>{Branch vulnerability to embolism} (only at two sites)
 		\end{itemize}
 	\end{itemize}
 \end{frame}
@@ -237,17 +257,17 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	 \textbf{Sap flow measurements:}
 	 \begin{itemize}
 	 	\item<+-| alert@+> Practical limitations \rar\ only in dry forest (Horizontes)
-	 	\item<+-| alert@+> 4 measurement campaigns of $\pm$ 1 week during rainy season of 2015
-	 	\item<+-| alert@+> 40 trees of 8 species	
-	 	\item<+-| alert@+> Measured with the Heat Field Deformation (HFD) method			
+	 	\item<+-| alert@+> 4 measurement campaigns of $\pm$ 1 week during rainy season of \alert<3>{2015}
+	 	\item<4-| alert@4> 40 trees of 8 species	
+	 	\item<5-| alert@5> Measured with the Heat Field Deformation (HFD) method			
 	 \end{itemize}			
 	\end{minipage}
 	\begin{minipage}{0.48\tw}
-		\only<1>{\includegraphics[width = \tw]{figures/map_02_horizontes.png}} 	
-		\only<2-3>{\includegraphics[width = \tw]{figures/Guanacaste2015.jpg}\\
+		\only<1-2>{\includegraphics[width = \tw]{figures/map_02_horizontes.png}} 	
+		\only<3-4>{\includegraphics[width = \tw]{figures/Guanacaste2015.jpg}\\
 			
 			\source{Image source: Instituto Meteorológico Nacional de Costa Rica}} 			
-		\only<4>{\centering \includegraphics[width = 0.7\tw]{figures/HFD_01_sensor.JPG}}
+		\only<5>{\centering \includegraphics[width = 0.65\tw]{figures/HFD_01_sensor.JPG}}
 	\end{minipage}
 \end{frame}
 
@@ -261,12 +281,12 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
   \begin{itemize}
   	\item \alert{Soil water content}
   	\begin{itemize}
-  		\item 1 measurement for each of the 4 campaign
+  		\item 1 measurement for each of the 4 campaigns
   		\item 1 soil sample per subplot ($4\times45$ in total)
   	\end{itemize}
   	\item \alert{Vertical microclimate}
   	\begin{itemize}
-  		\item Temperature + air humidity tracked with \textit{iButtons}
+  		\item Temperature + air humidity tracked each 10~min with \textit{iButtons}
   		\item Measured from ground level to canopy in 5~m steps
   		\item 3 measurement lines
   	\end{itemize}
@@ -281,14 +301,15 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 			\item<+-| alert@+> 1 heater and 3 temperature sensors inserted into wood
 			\item<+-| alert@+> Heater heats constantly with known caloric input
 			\item<+-| alert@+> Sap movement \rar\ faster heat transport in flow direction
-			\item<+-| alert@+> Temperature differences between sensors are used for estimation of sap flux density at different depths
+			\item<+-| alert@+> Temperature differences between sensors are used to estimate sap flux density at different depths
 		\end{itemize}						
 	\end{minipage}
 	\begin{minipage}{0.48\tw}
-			\only<1-2>{\includegraphics[width = \tw]{figures/nadezhdina_01.png}}
-			\only<3-4>{\quad\quad \includegraphics[width = 0.6\tw]{figures/nadezhdina_02.png}}\\
-				
-				\source{Image source: Nadezhdina et al., 2012}
+			\only<1>{\includegraphics[width = \tw]{figures/nadezhdina_01.png}\\
+		\source{Image source: Nadezhdina et al., 2012}}
+				\only<2>{\centering \includegraphics[width = 0.65\tw]{figures/HFD_01_sensor.JPG}}
+			\only<3-4>{\quad\quad \includegraphics[width = 0.6\tw]{figures/nadezhdina_02.png}\\
+				\source{Image source: Nadezhdina et al., 2012}}			
 	\end{minipage}
 \end{frame}
 
@@ -335,8 +356,9 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\includegraphics[width = \tw]{figures/HFD_05_profile_simarouba.png}
 	\end{minipage}
 	\begin{minipage}{0.6\tw}		
-		   \Blue{How to analyze?}		
-		\begin{itemize}[<+-| alert@+>]			
+		   \Blue{How to analyze sap flow profiles?}		
+		\begin{itemize}[<+-| alert@+>]
+			\item Observational unit: daily averages of sap flux density		
 			\item Nonlinear relationship
 			\item Parameters that control the shape of the nonlinear relationship depend on other variables
 			\item Hierarchical data structure (repeated observations in replicate trees from different species)					
@@ -349,7 +371,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 	\begin{itemize}
 		\item Analysis based on \Blue{Bayesian nonlinear hierarchical models}
 		\begin{itemize}			
-			\item<2-> \alert<2>{\textbf{First stage of the model:}} Nonlinear relationship between sensor depth and predicted flux density modeled with the density function of the Weibull distribution
+			\item<2-> \alert<2>{\textbf{First stage of the model:}} Nonlinear relationship between sensor depth and predicted flux density modeled with the \alert<3>{density function of the Weibull distribution}
 			\item<4->  \alert<4>{\textbf{Second stage of the model:}} Parameters of the Weibull distribution modeled as a function of wood density, tree height and their interaction, accounting for species and stem specific random variation
 			\item<only@5->  \alert<5>{Model fitting with the \textbf{Stan modeling language}}
 		\end{itemize}
@@ -543,7 +565,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 			\end{itemize}
 			\item<3-> \alert<3>{\textbf{Average vessel diameter}}
 			\begin{itemize}
-				\item increases with tree height (in trunk and branches)
+				\item increases with tree height
 			\end{itemize}
 			\item<4-> \alert<4>{\textbf{NSC storage}}
 			\begin{itemize}
@@ -564,6 +586,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\begin{itemize}
 			\item Modeling framework for the multivariate analysis of networks of causal hypotheses
 			\item Allows to test whether a system significantly deviates from a model based on a-priori hypotheses about the system
+			\item Modeling likely with R package \texttt{lavaan} or \texttt{piecewiseSEM}
 		\end{itemize}		
 	\end{itemize}
 \end{frame}
@@ -574,7 +597,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 		\item Dataset is not complete (NSC data are being measured)
 		\item<2-> To show what the analysis will look like - results from a study using an analogous model:\\
 		
-		\vspace{1em} \blue{Kotowska, M.M., Röll, A., \alert{Link, R.M.,} Hertel, D., Hölscher, D., Leuschner, C., Waite, P.A., Moser, G., Toja, A, Schuldt, B. (2018):} \textit{Tree size in combination with wood anatomy determines whole-tree water use and productivity in the tropics} (in preparation)		
+		\vspace{1em} \blue{Kotowska, M.M., Röll, A., \alert{Link, R.M.,} Hertel, D., Hölscher, D., Leuschner, C., Waite, P.A., Moser, G., Toja, A., Schuldt, B. (2018):} \textit{Tree size in combination with wood anatomy determines whole-tree water use and productivity in the tropics} (in preparation)		
 		
 	\end{itemize}
 \end{frame}
@@ -645,7 +668,7 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 
 	\begin{frame}[plain]
 		\begin{block}{\textbf{Thanks list (in mostly alphabetical order):}}
-			Dagoberto Arias, Marvin Castillo, Sylvain Delzon, Adrian Fröhlich, Sebastian Fuchs, Steven Jansen, Christoph Leuschner, Erick Naranjo, Maynor Rodriguez, Luis Guillermo Romero, Bernhard Schuldt, Katja Steinhoff, Juan Carlos Valverde, the CIPA staff, the EEFH staff, the Escuela de Ingiería Forestal of the TEC, and everyone who feels forgotten
+			Dagoberto Arias, Marvin Castillo, Sylvain Delzon, Moritz Doll, Adrian Fröhlich, Sebastian Fuchs, Steven Jansen, Christoph Leuschner, Erick Naranjo, Maynor Rodriguez, Luis Guillermo Romero, Bernhard Schuldt, Katja Steinhoff, Juan Carlos Valverde, the CIPA staff, the EEFH staff, the Escuela de Ingiería Forestal of the TEC, and everyone who feels forgotten
 		\end{block}		
 	\end{frame}
 
@@ -661,13 +684,18 @@ Department of Plant Ecology and Ecosystem Research\\ Georg August University of 
 \begin{frame}[t]
 	\frametitle{References}
 	\begin{changemargin}{-2em}{-2em}
-		\footnotesize
+		\tiny
 		\begin{itemize}
+			\item \textbf{Carpenter, B, Gelman, A, Hoffman, MD, Lee, D, Goodrich, B, Betancourt, M, Brubaker, M, Guo, J, Li, P, Riddell, A, 2017.} Stan: A probabilistic programming language. \textit{Journal of Statistical Software} \textbf{76(1)}. \url{https://doi.org/10.18637/jss.v076.i01}.
 			\item \textbf{Fuchs S, Leuschner C, Link R, Coners H, Schuldt B, 2017.}
 			Calibration and comparison of thermal dissipation, heat ratio and heat field deformation sap flow probes for diffuse-porous trees,
 			\textit{Agricultural and Forest Meteorology} \textbf{244–245}, 151-161. \url{https://doi.org/10.1016/j.agrformet.2017.04.003}.
+			\item \textbf{Lefcheck, JS, 2015.} \texttt{piecewiseSEM}: Piecewise structural equation modeling in R for ecology, evolution, and systematics. \textit{Methods in Ecology and Evolution} \textbf{7(5)}, 573-579. \url{https://doi.org/10.1111/2041-210X.12512}.
 			\item \textbf{Nadezhdina, N, Vandegehuchte, MW, Steppe, K, 2012.} Sap flux density measurements based on the heat field deformation method. \textit{Trees} \textbf{26(5)}, 1439-1448.
+			\item \textbf{Pinheiro, J, Bates, D, DebRoy, S, Sarkar, D, R Core Team, 2017.} \texttt{nlme}: Linear and Nonlinear Mixed Effects Models. R package version 3.1-131. \url{https://CRAN.R-project.org/package=nlme}.	
+			\item  \textbf{Rosseel, Y, 2012.} lavaan: An R Package for Structural Equation Modeling. \textit{Journal of Statistical Software} \textbf{48(2)},	1-36. \url{http://www.jstatsoft.org/v48/i02/}.		
 			\item \textbf{Schuldt B, Knutzen F, Delzon S, Jansen S, Müller-Haubold H, Burlett R, Clough, Y, Leuschner, C, 2016.} How adaptable is the hydraulic system of European beech in the face of climate change-related precipitation reduction?. \textit{New Phytologist} \textbf{210(2)}, 443-458.
+			\item \textbf{Stroock, AD, Pagay, VV, Zwieniecki, MA, Holbrook, MN, 2014.} The physicochemical hydrodynamics of vascular plants. \textit{Annual Review of Fluid Mechanics} \textbf{46}, 615--642.
 			\item \textbf{Vandegehuchte, MW,  Steppe, K, 2012.} Interpreting the Heat Field Deformation method: Erroneous use of thermal diffusivity and improved correlation between temperature ratio and sap flux density. \textit{Agricultural and Forest Meteorology} \textbf{162}, 91-97.
 		\end{itemize}
 	\end{changemargin}
